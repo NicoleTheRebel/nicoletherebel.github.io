@@ -107,7 +107,7 @@ input, select, textarea {
     font-weight: 400;
     font-size: 11pt;
     line-height: 1.85em;
-    background-color: #121212; /* Sfondo nero antracite */
+    background-color: #D72638; /* Rosso intenso per effetto ribelle */
 }
 
 a {
@@ -117,7 +117,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #D72638; /* Rosso intenso per effetto ribelle */
+    color: #121212; /* nero antracite */ 
 }
 
 h1, h2, h3, h4, h5, h6 {
