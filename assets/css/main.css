@@ -103,7 +103,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
     font-family: 'Open Sans', sans-serif;
-    color: #EAEAEA; /* Testo bianco sporco per leggibilità */
+    color: #121212; /* Testo nero antracite per leggibilità */
     font-weight: 400;
     font-size: 11pt;
     line-height: 1.85em;
